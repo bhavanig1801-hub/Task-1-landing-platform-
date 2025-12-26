@@ -1,4 +1,4 @@
-# Task-1-landing-platform-               
+# Task-1-landing-platform- 
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -8,8 +8,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="keywords" content="">
 		<meta name="description" content="">
-
-		<!-- animate css -->
+<!-- animate css -->
 		<link rel="stylesheet" href="css/animate.min.css">
 		<!-- bootstrap css -->
 		<link rel="stylesheet" href="css/bootstrap.min.css">
@@ -17,11 +16,10 @@
 		<link rel="stylesheet" href="css/font-awesome.min.css">
 		<!-- google font -->
 		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,700,800' rel='stylesheet' type='text/css'>
-
-		<!-- custom css -->
+<!-- custom css -->
 		<link rel="stylesheet" href="css/templatemo-style.css">
 
-	</head>
+</head>
 	<body>
 		<!-- start preloader -->
 		<div class="preloader">
@@ -91,9 +89,7 @@
 			</div>
 		</section>
 		<!-- end divider -->
-
-		<!-- start feature -->
-		<section id="feature">
+<!-- start feature -->    <section id="feature">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6 wow fadeInLeft" data-wow-delay="0.6s">
@@ -107,11 +103,11 @@
 					</div>
 				</div>
 			</div>
-		</section>
-		<!-- end feature -->
+		</section>  
+    <!-- end feature -->
 
 		<!-- start feature1 -->
-		<section id="feature1">
+<section id="feature1">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6 wow fadeInUp" data-wow-delay="0.6s">
@@ -129,7 +125,7 @@
 		<!-- end feature1 -->
 
 		<!-- start pricing -->
-		<section id="pricing">
+<section id="pricing">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 wow bounceIn">
@@ -189,7 +185,7 @@
 		<!-- end pricing -->
 
 		<!-- start download -->
-		<section id="download">
+<section id="download">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6 wow fadeInLeft" data-wow-delay="0.6s">
@@ -206,7 +202,7 @@
 		<!-- end download -->
 
 		<!-- start contact -->
-		<section id="contact">
+<section id="contact">
 			<div class="overlay">
 				<div class="container">
 					<div class="row">
@@ -247,16 +243,15 @@
 		<!-- end contact -->
 
 		<!-- start footer -->
-		<footer>
+<footer>
 			<div class="container">
-					<div class="credit"> created by <span>ms. Poonam Jagtap</span> | all rights reserved </div>
-		</footer>
-		<!-- end footer -->
-        
-		<script src="js/jquery.js"></script>
-		<script src="js/bootstrap.min.js"></script>
-		<script src="js/wow.min.js"></script>
-		<script src="js/jquery.singlePageNav.min.js"></script>
-		<script src="js/custom.js"></script>
-	</body>
+					<div class="credit"> created by <span>ms. Bhavani G</span> | all rights reserved </div>
+</footer>
+<!-- end footer -->
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/wow.min.js"></script>
+<script src="js/jquery.singlePageNav.min.js"></script>
+<script src="js/custom.js"></script>
+</body>
 </html>
